@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project is, 
+Created a UI design snake like path.
+This UI is created using Custom Paint Widget Mainly.
+Attaching the reference link for the custompaint.
+https://www.kodeco.com/26483389-flutter-canvas-api-getting-started#toc-anchor-013
 
 A few resources to get you started if this is your first Flutter project:
 
